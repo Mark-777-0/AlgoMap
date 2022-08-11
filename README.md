@@ -1,7 +1,14 @@
 ## AlgoMap
 ![algomap logo](https://github.com/Mark-777-0/AlgoMap/blob/main/public/LOGO.svg)
+
 This project was built to help visualize how graph traversal algorithms move within different environments. The player can select an algorithm, draw any pattern over the canvas and then watch the algorithm traverse the custom terrain.
 
+<div align='center'>
+  
+![algo demonstration](https://github.com/Mark-777-0/AlgoMap/blob/main/assets/algomap.gif)
+  
+</div>
+  
 This project helped me learn about the JS canvas, React props, useStates and renders. This is an older project of mine, and contains old code and _a lot of bugs!_ This project was done following a tutorial from clementmihailescuu.
 
 ## React Info (Below Is The Default ReadMe For React Apps)
