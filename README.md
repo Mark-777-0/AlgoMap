@@ -1,5 +1,6 @@
 ## AlgoMap
-![algomap logo](https://github.com/Mark-777-0/AlgoMap/blob/main/public/LOGO.svg)
+
+<img src="https://github.com/Mark-777-0/AlgoMap/blob/main/public/LOGO.svg" alt="algomap" width="700"/>
 
 This project was built to help visualize how graph traversal algorithms move within different environments. The player can select an algorithm, draw any pattern over the canvas and then watch the algorithm traverse the custom terrain.
 
